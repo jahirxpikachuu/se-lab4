@@ -1,0 +1,3 @@
+# Both initially empty in SINGLE
+GT4500,0,0,0,0
+TORPEDO,SINGLE
